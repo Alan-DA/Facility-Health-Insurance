@@ -9,4 +9,4 @@ In this case study i will present you the data of :
 
 - Number 1 and 2 are RAW data
 - Number 3 are both of those data after cleaned
-- For dashboard you can check on : https://public.tableau.com/app/profile/maulana.mubarak.ahmad
+- For dashboard you can check on : <a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/Dashboard_16758764911660/MainDashboard" />Here</a>
